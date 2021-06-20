@@ -1,1 +1,3 @@
-# Artificial Intelligence inSports
+# Artificial Intelligence in Sports
+
+Sport Scientist’s Toolbox
